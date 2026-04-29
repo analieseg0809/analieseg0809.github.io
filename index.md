@@ -4,7 +4,7 @@ This is my home page! My name is Analiese and I am a student at [Cal State Fulle
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/analieseg0809.
+My GitHub page is (https://github.com/analieseg0809).
 
 ### CPSC 120
 
